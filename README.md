@@ -1,2 +1,2 @@
 # hello-world
-start of the github journey
+the beginning of the github journey
